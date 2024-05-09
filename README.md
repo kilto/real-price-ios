@@ -28,7 +28,5 @@ Byte: bit (b),byte (B),kilobit (Kb),megabit (Mb),gigabit (Gb),terabit (Tb),kilob
 
 Tag:compare price, compare cost,unit price,cost per unit,price per unit,shopping app,unit pricing,unit app,calculating unit price,compare unit prices
 
-https://github.com/kilto/real-price-ios/blob/main/0x0ss%20(1).png
-
 <img src="https://github.com/kilto/real-price-ios/blob/main/0x0ss%20(1).png" width="200"> <img src="https://github.com/kilto/real-price-ios/blob/main/0x0ss%20(2).png" width="200"> <img src="https://github.com/kilto/real-price-ios/blob/main/0x0ss%20(3).png" width="200"> <img src="https://github.com/kilto/real-price-ios/blob/main/0x0ss%20(4).png" width="200">
 
