@@ -1,4 +1,4 @@
-I wrote this app a long time ago, around 2016 I think, when the iPhone had just come out. I used Objective-C as the main programming language and older iOS techniques to draw the UI.
+I wrote this app a long time ago, around 2016 I think, when the iPhone had just come out. I used Objective-C as the main programming language and older iOS techniques to draw the UI. No-code architecture  
 
 # real-price-ios
 Real Price ~ compare unit prices
